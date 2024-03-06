@@ -13,7 +13,7 @@ if __name__=='__main__':
             [1] Register Member
             [2] Login Member
             [3] Login  Librarian
-            [4] Exit
+            [4] Exits
         
             ''')
         
